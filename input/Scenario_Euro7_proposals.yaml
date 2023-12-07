@@ -1,0 +1,42 @@
+Baseline_2035:
+    year: 2035
+    cao2_scenario: Baseline
+    station_codes: []
+    euro7_reduction_pct: 
+        PCAR7: 0
+        DCAR7: 0
+        PLDV7: 0
+        DLDV7: 0
+        DHDVVII: 0
+    sectors_list:
+        A_PublicPower: 1
+        B_Industry: 1
+        C_OtherStationaryComb: 1
+        F_RoadTransport: 1
+        G_Shipping: 1
+        H_Aviation: 1
+        I_Offroad: 1
+        J_Waste: 1
+        K_AgriLivestock: 1
+        L_AgriOther: 1
+IA_PO3a_2035:
+    year: 2035
+    cao2_scenario: Baseline
+    station_codes: []
+    euro7_reduction_pct: 
+        PCAR7: 54
+        DCAR7: 94
+        PLDV7: 54
+        DLDV7: 94
+        DHDVVII: 90
+    sectors_list:
+        A_PublicPower: 1
+        B_Industry: 1
+        C_OtherStationaryComb: 1
+        F_RoadTransport: 1
+        G_Shipping: 1
+        H_Aviation: 1
+        I_Offroad: 1
+        J_Waste: 1
+        K_AgriLivestock: 1
+        L_AgriOther: 1
